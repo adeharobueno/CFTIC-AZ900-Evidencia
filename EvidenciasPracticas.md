@@ -4,7 +4,7 @@
 
 * Máquina virtual creada
 
-  ![1-Create VM 1](Evidencias/1-Create VM 1.png)
+  ![1-Create VM 1](Evidencias/1-Create%20VM%201.png)
 
   
 
