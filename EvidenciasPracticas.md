@@ -1,3 +1,27 @@
+# 01- Create a virtual machine in the portal
+
+
+
+* Máquina virtual creada
+
+  ![1-Create VM 1](Evidencias/1-Create VM 1.png)
+
+  
+
+* ISS instalado
+
+  ![1-Create VM 2](Evidencias/1-Create VM 2.png)
+
+
+
+# 02- Create a Webb App
+
+* Web App creada
+
+  
+
+![2- Create Webb App 1](Evidencias/2- Create Webb App 1.png)
+
 # 03-Deploy Azure Container Instances
 
 
@@ -22,4 +46,20 @@
 * Ping entre las dos máquinas
 
   ![Captura de pantallavirtualnet4](Evidencias/Captura%20de%20pantallavirtualnet4.png)
+
+
+
+# 05- Create Blob storage
+
+* Creado el almacenamiento
+
+  ![5-createStorage1](Evidencias/5-createStorage1.png)
+
+* Subido un archivo al contenedor
+
+  ![5-createStorage2](Evidencias/5-createStorage2.png)
+
+* Métrica
+
+  ![5-createStorage3](Evidencias/5-createStorage3.png)
 
