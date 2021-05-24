@@ -63,3 +63,172 @@
 
   ![5-createStorage3](Evidencias/5-createStorage3.png)
 
+
+
+# 06-Create a SQL database
+
+![6. CreateSqlDatabase 1](Evidencias/6.%20CreateSqlDatabase%201.png)
+
+![6. CreateSqlDatabase2](Evidencias/6.%20CreateSqlDatabase2.png)
+
+# 07-Implement the Azure IoT Hub
+
+![7. CreateIoTHub1](Evidencias/7.%20CreateIoTHub1.png)
+
+
+
+![7. CreateIoTHub2](Evidencias/7.%20CreateIoTHub2.png)
+
+
+
+![7. CreateIoTHub3](Evidencias/7.%20CreateIoTHub3.png)
+
+
+
+
+
+# 08-Implement Azure Functions
+
+
+
+
+
+# 09-Create a VM with a Template
+
+
+
+# 10-Create a VM with PowerShell
+
+
+
+![10.CreateVMPowerShell1](Evidencias/10.CreateVMPowerShell1.png)
+
+![10.CreateVMPowerShell2](Evidencias/10.CreateVMPowerShell2.png)
+
+![10.CreateVMPowerShell3](Evidencias/10.CreateVMPowerShell3.png)
+
+
+
+# 11-Create a VM with the CLI
+
+
+
+![11.CreateVMCLI1](Evidencias/11.CreateVMCLI1.png)
+
+
+
+![11.CreateVMCLI2](Evidencias/11.CreateVMCLI2.png)
+
+![11.CreateVMCLI3](Evidencias/11.CreateVMCLI3.png)
+
+
+
+# 12-Implement Azure Key Vault
+
+
+
+
+
+
+
+# 13-Secure network traffic
+
+
+
+![13.CreateNetworkSecurityGroup1](Evidencias/13.CreateNetworkSecurityGroup1.png)
+
+![13.CreateNetworkSecurityGroup2](Evidencias/13.CreateNetworkSecurityGroup2.png)
+
+![13.CreateNetworkSecurityGroup3](Evidencias/13.CreateNetworkSecurityGroup3.png)
+
+![13.CreateNetworkSecurityGroup4](Evidencias/13.CreateNetworkSecurityGroup4.png)
+
+
+
+# 14-Manage access with RBAC
+
+
+
+![14.CreateRBAC1](Evidencias/14.CreateRBAC1.png)
+
+# 15-Manage resource locks
+
+
+
+![15.CreateLock1](Evidencias/15.CreateLock1.png)
+
+
+
+
+
+![15.CreateLock2](Evidencias/15.CreateLock2.png)
+
+
+
+# 16-Implement resource tagging
+
+
+
+![16.ImplementResourceTagging1](Evidencias/16.ImplementResourceTagging1.png)
+
+![16.ImplementResourceTagging2](Evidencias/16.ImplementResourceTagging2.png)
+
+![16.ImplementResourceTagging3](Evidencias/16.ImplementResourceTagging3.png)
+
+
+
+# 17-Create an Azure Policy
+
+
+
+
+
+![17.CreateAzurePolicy](Evidencias/17.CreateAzurePolicy.png)
+
+![17.CreateAzurePolicy2](Evidencias/17.CreateAzurePolicy2.png)
+
+![17.CreateAzurePolicy3](Evidencias/17.CreateAzurePolicy3.png)
+
+# 18-Explore the Trust Center
+
+
+
+![18.ExploreTheTrustCenter1](Evidencias/18.ExploreTheTrustCenter1.png)
+
+![18.ExploreTheTrustCenter2](Evidencias/18.ExploreTheTrustCenter2.png)
+
+![18.ExploreTheTrustCenter3](Evidencias/18.ExploreTheTrustCenter3.png)
+
+
+
+# 19-Use the Azure Pricing Calculator
+
+
+
+
+
+![19.UseAzurePrizing1](Evidencias/19.UseAzurePrizing1.png)
+
+# 20-Use the Azure TCO Calculator
+
+
+
+![20.Use the Azure TCO](Evidencias/20.Use%20the%20Azure%20TCO.png)
+
+![(C:\practicas CTIC Azure\Evidencias\21.CalculateCompositeSLA.png)
+
+
+
+# 21-Calculate Composite SLAs
+
+
+
+![21.CalculateCompositeSLA](Evidencias/21.CalculateCompositeSLA.png)
+
+
+
+# 22-Open a Support Request
+
+
+
+![22.OpenSupportRequest](Evidencias/22.OpenSupportRequest.png)
