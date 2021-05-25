@@ -91,11 +91,21 @@
 
 
 
+![8.ImplementAzureFunctions](Evidencias/8.ImplementAzureFunctions.png)
 
+
+
+![8.ImplementAzureFunctions2](Evidencias/8.ImplementAzureFunctions2.png)
+
+![8.ImplementAzureFunctions3](Evidencias/8.ImplementAzureFunctions3.png)
 
 # 09-Create a VM with a Template
 
 
+
+![9.CreateVMTemplate1](Evidencias/9.CreateVMTemplate1.png)
+
+![9.CreateVMTemplate2](Evidencias/9.CreateVMTemplate2.png)
 
 # 10-Create a VM with PowerShell
 
@@ -129,7 +139,9 @@
 
 
 
+![12.KeyVault](Evidencias/12.KeyVault.png)
 
+![12.KeyVault2](Evidencias/12.KeyVault2.png)
 
 # 13-Secure network traffic
 
